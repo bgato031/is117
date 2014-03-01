@@ -90,12 +90,32 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body{
+		background-color: gray;
+}
+#wrapper{
+		Background-color: white;
+		margin-left: auto;
+		margin-right: auto;
+		width: 980px;
+}
+#primary_links li{
+	display: inline;
+}
+#primary_links{
+	background-color: #3f8252;
+	Height: 72px;
+	line-height: 72px;
 
-
-
-
-
-
+}
+#primary_links ul{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#branding{
+	margin: 0 auto;
+	height: 85px;
+}
 
 
 
