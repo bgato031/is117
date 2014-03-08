@@ -94,19 +94,25 @@ body{
 		background-color: gray;
 }
 #wrapper{
-		Background-color: white;
+		background-color: white;
 		margin-left: auto;
 		margin-right: auto;
 		width: 980px;
 }
 #primary_links li{
 	display: inline;
+
+}
+#primary_links a{
+	
+	color: white;
 }
 #primary_links{
 	background-color: #3f8252;
 	Height: 72px;
 	line-height: 72px;
-
+	text-align: center;
+	word-spacing: 80px;
 }
 #primary_links ul{
 	margin-top: 0px;
@@ -116,13 +122,35 @@ body{
 	margin: 0 auto;
 	height: 85px;
 }
+#logo img{
+	width: 194px;
+	height: 64px;	
+}
+#bbblogo img{
+	margin-left: 280px;
+	height: 32px;
+	width: 124px;
+	
+}
+#telnr img{
+	height: 28px;
+	width: 200px;
+	margin-left: 45px;
+}
+#fblogo img{
+	height: 32px;
+	width: 32px;
+	margin-top: -2px;
+}
+#fbbarcolorbar{
+	background-color: #4c6498;
+	Height: 50px;
+	line-height: 50px;
+	text-align: center;
+	word-spacing: 80px;
+	border-radius: 5px;
 
-
-
-
-
-
-
+}
 
 
 
