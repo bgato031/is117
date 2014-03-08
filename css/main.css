@@ -97,7 +97,7 @@ body{
 		background-color: white;
 		margin-left: auto;
 		margin-right: auto;
-		width: 980px;
+		width: auto;
 }
 #primary_links ul li{
 
@@ -145,6 +145,10 @@ body{
 	width: 32px;
 	margin-top: -2px;
 }
+#fbbarcolorbar iframe{
+	margin: 5px 19px 8px 0px;
+	text-align: center;
+}
 #fbbarcolorbar{
 	background-color: #4c6498;
 	Height: 50px;
@@ -152,7 +156,7 @@ body{
 	text-align: center;
 	word-spacing: 80px;
 	border-radius: 5px;
-
+	margin-top: 25px;
 }
 #subhead1{
 	text-align: center;
@@ -164,6 +168,22 @@ body{
 }
 #video{
 	text-align: center;
+}
+#fb01{
+	font-size: 36px;
+	float: left;
+	color: white;
+	margin: 5px 0px 8px 19px;
+}
+#fb02{
+	float: right;
+	color:white;
+	font-size: 36px;
+	margin: 5px 19px 8px 0px;
+}
+#subhead3{
+	text-align: center;
+	color: #3f8252;
 }
 
 /* ==========================================================================
