@@ -99,11 +99,14 @@ body{
 		margin-right: auto;
 		width: 980px;
 }
-#primary_links li{
+#primary_links ul li{
+
 	display: inline;
 
 }
-#primary_links a{
+#primary_links ul li a{
+	
+	text-decoration: none;
 	
 	color: white;
 }
@@ -159,7 +162,9 @@ body{
 	text-align: center;
 	font-size: small;
 }
-
+#video{
+	text-align: center;
+}
 
 /* ==========================================================================
    Helper classes
