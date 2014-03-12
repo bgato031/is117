@@ -220,7 +220,7 @@ body{
 	margin-top: -246px;
 	margin-left: 25px;
 	border: 0px solid white;
-	width: 955px;
+	width: 100%;
 	font-family: opensans;
 	color: #777777;
 	font-size: 14px;
@@ -229,7 +229,7 @@ body{
 #th{
 	text-transform: uppercase;
 	height: 66px;
-	border: 0px solid white;
+	border: 0px solid white; 
 	font-family: opensans;
 	color: white;
 	font-size: 22px;
@@ -263,14 +263,12 @@ body{
 	width: 980px;
 	margin-left: auto;
 	margin-right: auto;
-	height: 402px;
+	font-size: 15.5px;
 	text-align: center;
-	font-size: 14px;
 	color: #2c2c2c;
-	line-height: 8px;
 	background-color: white;
 }
-coolingheader{
+#coolingheader{
 	letter-spacing: 9px;
 	color: #2980b9;
 	font-size: 30px;
