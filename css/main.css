@@ -211,17 +211,19 @@ body{
 #airc{
 	background-color: #2980b9;
 	width: 305px;
+	margin: 60px;
 }
 #heati{
 	background-color: #c0392b;
 	width: 161px;
+	margin: 60px;
 }
 #table{
 	margin-top: 240px;
-	margin-left: -221px;
+	margin-left: 66px;
 	border: 0px solid white;
 	width: 955px;
-	height: 466px;
+	height: 25px;
 	font-family: opensans;
 	color: #777777;
 	font-size: 14px;
@@ -230,7 +232,7 @@ body{
 #th{
 	text-transform: uppercase;
 	height: 66px;
-	border: 0px solid white; 
+	margin-left: 66px;
 	font-family: opensans;
 	color: white;
 	font-size: 22px;
@@ -239,6 +241,7 @@ body{
 #tc{
 	height: 40px;
 	border: 1px solid #e9e9e9;
+	margin-left: 55px;
 }
 #heatingblog{
 	background-color: #eef1f5;
