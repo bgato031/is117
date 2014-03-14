@@ -223,15 +223,18 @@ body{
 	margin-left: 66px;
 	border: 0px solid white;
 	width: 955px;
-	height: 25px;
+	height: 66px;
 	font-family: opensans;
 	color: #777777;
 	font-size: 14px;
 	background-color: #f7f7f7;
+	position: absolute;
+	top: 632px;
 }
+
 #th{
 	text-transform: uppercase;
-	height: 66px;
+	height: 25px;
 	margin-left: 66px;
 	font-family: opensans;
 	color: white;
