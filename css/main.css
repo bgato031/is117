@@ -205,11 +205,13 @@ body{
 	text-transform: uppercase;
 	margin-top: 240px;
 	margin-left: -221px;
+	
 }
 #airc{
 	background-color: #2980b9;
 	width: 305px;
 	margin: 60px;
+	border-left: 3px;
 }
 #heati{
 	background-color: #c0392b;
