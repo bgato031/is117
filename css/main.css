@@ -152,6 +152,8 @@ body{
 	text-align: center;
 }
 #fbbarcolorbar{
+	margin-left: 60px;
+	margin-right: 60px;
 	background-color: #4c6498;
 	Height: 50px;
 	line-height: 50px;
@@ -188,19 +190,28 @@ body{
 	margin: 5px 19px 8px 0px;
 }
 #subhead3{
-	text-align: center;
+	text-align: left;
 	color: #3f8252;
 	letter-spacing: 10px;
 }
+#subhead4{
+	
+}
 #subhead5left{
-	width: 50%;
+	line-height: 0.8;
+	color: #2c2c2c;
+	margin-top: 33px;
+	width: 490px;
+	font-size: 14px;
 	margin-left: 1px;
+	font-family: opensans;
 }
 #subhead6right{
-	width: 50%;
-	margin-top: -116px;
-	margin-left: 903;
-	line-height: 0.5px;
+	font-size: 14px;
+	margin-top: -149px;
+	margin-left: center;
+	line-height: 0.8px;
+	font-family: opensans;
 	float: right;
 }
 #table90{
@@ -212,7 +223,7 @@ body{
 	font-size: 14px;
 	text-transform: uppercase;
 	margin-top: 240px;
-	margin-left: -221px;
+	margin-left: -146px;
 	
 }
 #airc{
@@ -232,6 +243,9 @@ body{
 	color: #777777;
 	font-size: 14px;
 	background-color: #f7f7f7;
+	margin-left: 100px;
+	margin-right: 60px;
+	bottom: 240px;
 }
 
 #th{
