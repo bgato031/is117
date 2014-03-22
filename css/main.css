@@ -160,11 +160,17 @@ body{
 }
 #subhead1{
 	text-align: center;
-	font-size: xx-large;
+	color: #5d5d5d;
+	font-size: 36px;
+	margin-top:0px;
+	font-family: helvetica;
 }
 #subhead2{
 	text-align: center;
-	font-size: small;
+	color: #5d5d5d;
+	font-size: 16px;
+	margin-top: 0px;
+	font-family: helvetica;
 }
 #video{
 	text-align: center;
