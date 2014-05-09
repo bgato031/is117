@@ -91,13 +91,14 @@ textarea {
    Author's custom styles
    ========================================================================== */
 body{
-		background-color: gray;
+		background-image: url("http://dailyfantasysportsreviews.info/wp-content/uploads/2013/05/background-grass.jpg");
+		background-repeat:repeat-x;
+		background-attachment: fixed;
 }
 #wrapper{
-		background-color: white;
 		margin-left: auto;
 		margin-right: auto;
-		width: auto;
+		width: 980px;
 }
 #primary_links li{
 
@@ -112,11 +113,12 @@ body{
 		font-family: opensans;
 }
 #primary_links{
-	background-color: #3f8252;
-	Height: 72px;
-	line-height: 72px;
+	background-color: #00008b;
 	text-align: center;
-	word-spacing: 80px;
+	height: 102px;
+	line-height: 102px;
+	float: center;
+	word-spacing: 85px;
 }
 #primary_links ul{
 	margin-top: 0px;
@@ -126,7 +128,7 @@ body{
 	margin: 0 auto;
 	height: 85px;
 }
-#logo img{
+#FANTASY3 img{
 	width: 194px;
 	height: 64px;	
 }
@@ -162,20 +164,28 @@ body{
 }
 #subhead1{
 	text-align: center;
-	color: #5d5d5d;
+	color: #dc143c;
 	font-size: 36px;
 	margin-top:0px;
 	font-family: helvetica;
 }
 #subhead2{
-	text-align: center;
-	color: #5d5d5d;
+	text-align: auto center;
+	color: #dc143c;
 	font-size: 16px;
 	margin-top: 0px;
+	margin-right: 40px;
 	font-family: helvetica;
 }
 #video{
-	text-align: center;
+	float: left;
+	width: 74px;
+	height: 74px;
+}
+#video2{
+	float: right;
+	width: 74px;
+	height: 74px;
 }
 #fb01{
 	font-size: 36px;
@@ -190,8 +200,8 @@ body{
 	margin: 5px 19px 8px 0px;
 }
 #subhead3{
-	text-align: left;
-	color: #3f8252;
+	text-align: center;
+	color: #ffff00;
 	letter-spacing: 10px;
 }
 #subhead4{
