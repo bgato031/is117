@@ -129,41 +129,38 @@ body{
 #branding{
 	height: 145px;
 }
-#toplogo1 img{
-	margin-bottom: 10px;	
+#siriusfflogo img{
+	margin-bottom: 10px;
+	float: center;	
 }
-#bbblogo img{
+#facebooklogo img{
 	margin-left: 300px;
 	height: 32px;
-	width: 124px;
-	
+	width: 124px;	
 }
-#telnr img{
-	height: 28px;
-	width: 200px;
-	margin-left: 45px;
-}
-#fblogo img{
+#facebooklogo img{
+	margin-left: 300px;
 	height: 32px;
-	width: 32px;
-	margin-left: 875px;
-	margin-top: -90px;
+	width: 124px;	
 }
+
+
 #subhead1{
 	text-align: center;
-	color: #dc143c;
-	font-size: 36px;
+	color: #3fff00;
+	font-size: 46px;
 	margin-top:0px;
 	font-family: helvetica;
 }
-#subhead2{
-	text-align: auto center;
-	color: #dc143c;
-	font-size: 16px;
+#subhead3{
+	text-align: center;
+	color: #fff607;
+	font-size: 30px;
 	margin-top: 0px;
 	margin-right: 40px;
 	font-family: helvetica;
 }
+
 #video{
 	float: center;
 	float: right;
@@ -173,6 +170,19 @@ body{
 	margin-left: 260px;
 	float: left;
 	font-size: auto;
+}
+}
+#nfllogo{
+	margin-left: auto;
+}
+#mlblogo{
+	float: auto;
+}
+#nbalogo{
+	float: auto;
+}
+#nhllogo{
+	margin-right: auto;
 }
 ?
 	
